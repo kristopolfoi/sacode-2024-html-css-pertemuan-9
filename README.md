@@ -33,7 +33,6 @@ Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository
 
 git push
 
-https://kristopolfoi.github.io/sacode-2024-html-css-pertemuan-9/
 ```
 ```
 
