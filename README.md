@@ -1,4 +1,3 @@
-
 # Belajar coding dasar di SaCode: Mendalami GitHub 
 
 ## Git Commands
@@ -28,3 +27,17 @@ Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository
 git push
 ```
 ```
+
+
+Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository jarak jauh setelah melakukan perubahan. 
+
+git push
+
+https://kristopolfoi.github.io/sacode-2024-html-css-pertemuan-9/
+```
+```
+
+## Github pages
+
+lihat saya hasil coding melalui link Github pages berikut ini :
+https://kristopolfoi.github.io/sacode-2024-html-css-pertemuan-9/
